@@ -1,4 +1,4 @@
-# ![Title](additional-files/Ph4nt0m-1ntrud3r-Title.png)
+# ![Title](additional-files/phantom-intruder-title.png)
 
 ## Description
 
