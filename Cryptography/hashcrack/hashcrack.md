@@ -21,6 +21,6 @@ Access the server using nc verbal-sleep.picoctf.net 62644 </div>
 
 <div style="text-align: justify"> Copy paste the given hash into the website and it'll give you the original password. But after the first password, there are two more hashed passwords that you need to find. Luckily the website can detect a handful of different hashes and could identify what the hash is. After doing all that, you will end up with the flag.</div><br>
 
-![The flag](additional-files/hash-results.png)<br>
+![The flag](additional-files/hash-result.png)<br>
 
-<b>picoCTF{UseStr0nG*h@shEs*&PaSswDs!\_3eb19d03}</b>
+<b>picoCTF{UseStr0nG_h@shEs_&PaSswDs!_3eb19d03}</b>
